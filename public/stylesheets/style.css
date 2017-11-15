@@ -1,8 +1,28 @@
-body {
-  padding: 50px;
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif, "微软雅黑";
+html {
+  width: 100%;
+  height: 100%;
 }
 
-a {
-  color: #00B7FF;
+body {
+  width: 100%;
+  height: 100%;
+  padding-top: 70px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif, "微软雅黑";
+  background-color: #dddddd;
+}
+
+.navBlack {
+  padding-top: 10px;
+  padding-bottom: 10px; 
+  background-color: #161616;
+  border: none;
+}
+
+.jumbotronSky {
+  padding-top: 48px;
+  padding-bottom: 96px;
+  background-color: #161616;
+  color: #eeeeee;
+  width: 100%;
+  height: 100%;
 }
